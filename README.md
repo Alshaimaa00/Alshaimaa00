@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.svg" width="100%" alt="ALshaimaa"/>
+</p>
+
 ## Hi, I'm Alshaimaa Alamer 👋
 
 - 🎓 Computer Science Graduate from Imam Mohammad Ibn Saud Islamic University
@@ -58,6 +62,7 @@
   <img src="https://cdn.simpleicons.org/sketch/F7B500" alt="Sketch" title="Sketch" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Illustrator" title="Illustrator" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="45" height="45"/></p>
+
 
 
 
