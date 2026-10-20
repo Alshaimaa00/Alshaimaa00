@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="ALshaimaa Alamer"/>
-</p>
+# Hi, I'm Alshaimaa Alamer 👋
 
-### Hi, I'm ALshaimaa 👋
+🎓 Computer Science Graduate from Imam Mohammad Ibn Saud Islamic University  
+🍎 Apple Developer Academy Graduate  
+💻 iOS Developer | 📊 Data Analyst  
+🎨 UI/UX Designer | Graphic Designer
 
-UI/UX designer who also codes. I like turning small everyday problems into simple apps.
+I'm passionate about building meaningful digital experiences by turning complex problems into simple, intuitive solutions. I value clean code, thoughtful software architecture, and seamless user experiences.
 
-### What I work with
+I'm always eager to learn, explore new technologies, and find creative ways to turn ideas into reality.
+
+---
 
 ## ⚡ Technical Skills
 
@@ -51,11 +54,6 @@ UI/UX designer who also codes. I like turning small everyday problems into simpl
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-1E1E1E?style=for-the-badge&logoColor=white)
 
-
-### Featured
-
-- **Mealo**: meal reminders and food-expiry tracking (UX case study)
-- **SWE_project**: an educational app-like game in Dart
 
 ### Find me
 
